@@ -1,4 +1,4 @@
-# gh.py - an Asynchronous GitHub API wrapper made in Python
+# .gh.py - an Asynchronous GitHub API wrapper made in Python (Repository is named different for Python import compatibility
 
 At the moment I aim to wrap all of things that dont require authentication token.
 
@@ -9,6 +9,9 @@ import asyncio
 from gh_py.orgs import Organization
 from gh_py.rest import Client
 from gh_py.users import User
+
+# Installation
+clone the repository in your project
 
 async def main():
     client = Client()
