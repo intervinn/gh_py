@@ -1,4 +1,4 @@
-# .gh.py - an Asynchronous GitHub API wrapper made in Python (Repository is named different for Python import compatibility
+# .gh.py - an Asynchronous GitHub API wrapper made in Python (Repository is named different for Python import compatibility)
 
 At the moment I aim to wrap all of things that dont require authentication token.
 
